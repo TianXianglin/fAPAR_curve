@@ -1,2 +1,9 @@
 Download Data
 MODIS https://modis.ornl.gov/data.html
+EddyData https://fluxnet.org/data/fluxnet2015-dataset/
+
+R Script https://github.com/ornldaac/modis/blob/master/modis-global-fixed-statistics.ipynb
+
+MODIS
+Qianyanzhou
+https://modis.ornl.gov/cgi-bin/sites/site/?id=cn_jiangxi_qianyanzhou_site2&product=MOD15A2H
