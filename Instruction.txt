@@ -6,5 +6,5 @@ R Script https://github.com/ornldaac/modis/blob/master/modis-global-fixed-statis
 
 MODIS
 Qianyanzhou
-115.0581 E, 26.7414 N
+Location: 115.0581 E, 26.7414 N
 https://modis.ornl.gov/cgi-bin/sites/site/?id=cn_jiangxi_qianyanzhou_site2&product=MOD15A2H
